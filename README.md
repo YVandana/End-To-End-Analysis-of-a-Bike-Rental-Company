@@ -64,8 +64,7 @@ Rider Demand: Expected to increase by 64%.
 - Revenue by Season: A breakdown of revenue by each season.
 - Rider Demographics: Insights into the types of riders utilizing the service, indicating potential areas for targeted marketing.
 
-  ![Screenshot of the Dashboard](https://github.com/user-attachments/assets/05ef2d8b-8fc2-4363-b172-b8eac03b2cfe)
-
+![Screenshot of the Dashboard](https://github.com/user-attachments/assets/785330ba-6632-488f-ba63-612317a18a82)
 
 
 ## Conclusion
